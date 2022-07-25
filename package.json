@@ -1,0 +1,19 @@
+{
+  "name": "font-beauty-package",
+  "version": "1.0.0",
+  "description": "A package at beautifies text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boakaidorborkamara/font-beauty-package.git"
+  },
+  "author": "Boakai Dorbor Kamara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boakaidorborkamara/font-beauty-package/issues"
+  },
+  "homepage": "https://github.com/boakaidorborkamara/font-beauty-package#readme"
+}
